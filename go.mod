@@ -1,6 +1,6 @@
 module github.com/alexzorin/authy
 
-go 1.12
+go 1.17
 
 require (
 	golang.org/x/crypto v0.0.0-20220924013350-4ba4fb4dd9e7
